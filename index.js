@@ -57,4 +57,4 @@ bot.on("message", message =>{
 
 
 
-bot.login(process.env.TOKEN);
+bot.login("ODE4NDA0NTMxNTI3MzUyMzcw.YEXknQ.r0srp5ln0vqOOlvmn5XzAei3kZ8")
